@@ -237,7 +237,3 @@ Este proyecto demuestra:
 
 ---
 
-
-## 👨‍💻 Autor
-
-Andrés David Torres Márquez
